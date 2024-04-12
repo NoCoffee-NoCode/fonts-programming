@@ -8,7 +8,7 @@ This repository showcases popular typography fonts among programmers, offering a
 > Color theme is Dracula (Visual Studio Code)
 
 ### Anonymous Pro
-
+![Anonymous Pro](https://raw.githubusercontent.com/NoCoffee-NoCode/fonts-programming/main/img/Anonymous%20Pro.png)
 
 ### Cascadia Mono
 ![Cascadia Mono](https://raw.githubusercontent.com/cancng/fonts/master/img/CascadiaMono.png)
