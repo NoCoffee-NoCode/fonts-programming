@@ -1,17 +1,14 @@
 # Programming Fonts
 
+This repository showcases popular typography fonts among programmers, offering a variety for different preferences. Selected for their readability and aesthetics, the fonts make code reading easier. Each font includes information about the author, license, and download links. The community is encouraged to contribute their own favorite fonts. The goal is to provide a useful and diverse collection to enhance developers' coding experience worldwide.
+
 ## How to install?
 
-```bash
-  cd fonts
-  chmod +x install.sh
-  ./install.sh 
-```
 
-> Color theme is Github Dark (Visual Studio Code)
+> Color theme is Dracula (Visual Studio Code)
 
 ### Anonymous Pro
-![Anonymous Pro](https://raw.githubusercontent.com/cancng/fonts/master/img/AnonymousPro.png)
+
 
 ### Cascadia Mono
 ![Cascadia Mono](https://raw.githubusercontent.com/cancng/fonts/master/img/CascadiaMono.png)
